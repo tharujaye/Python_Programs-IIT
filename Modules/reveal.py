@@ -1,0 +1,4 @@
+import magic
+
+magic.start()
+
